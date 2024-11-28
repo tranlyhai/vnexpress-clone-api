@@ -16,7 +16,7 @@ Change the code in **vendor/Laravel/sanctum/src/PersonalAccessToken.php**
 
 from
 ```bash
-use Illuminate\Database\Eloquent\Mode
+use Illuminate\Database\Eloquent\Model
 ```
 to
 ```bash
